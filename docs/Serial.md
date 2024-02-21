@@ -51,6 +51,7 @@ e.g. after configuring a port for GPS enable the GPS feature.
 * No other serial port sharing combinations are valid.
 * You can use as many different telemetry systems as you like at the same time.
 * You can only use each telemetry system once.  e.g.  FrSky telemetry cannot be used on two port, but LTN Telemetry and FrSky on two different ports is fine.
+* In order to use MSP display port the MSP switch (on the left side) should not be on
 
 ### Configuration via CLI
 
